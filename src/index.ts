@@ -1,0 +1,1 @@
+console.log("Hello Interns 😎, this is the new project to learn 🧑🏻‍💻")
